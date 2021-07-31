@@ -7,21 +7,41 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@mapbox/polyline": "^1.1.1",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-navigation/bottom-tabs": "^5.11.11",
+    "@react-navigation/drawer": "^5.12.5",
+    "@react-navigation/native": "^5.9.4",
+    "axios": "^0.21.1",
     "expo": "~42.0.1",
     "expo-splash-screen": "~0.11.2",
     "expo-status-bar": "~1.0.4",
     "expo-updates": "~0.8.1",
+    "firebase": "^8.8.1",
+    "geocoder": "^0.2.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
+    "react-native-elements": "^3.4.2",
     "react-native-gesture-handler": "~1.10.2",
+    "react-native-google-places-autocomplete": "^2.2.0",
+    "react-native-maps": "^0.28.0",
+    "react-native-paper": "^4.9.2",
     "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "^3.2.0",
     "react-native-screens": "~3.4.0",
+    "react-native-status-bar-height": "^2.6.0",
     "react-native-unimodules": "~0.14.5",
+    "react-native-vector-icons": "^8.1.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "private": true,
+  "name": "taxi",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
